@@ -1,0 +1,32 @@
+Micron Confidential
+
+Today’s generative AI models require an ever-growing amount of data as they scale to deliver better results and address new opportunities.
+Micron’s 1-beta memory technology leadership and packaging advancements ensure the most efficient data flow in and out of the GPU.
+Micron’s 8-high and 12-high HBM3E memory further fuel AI innovation at 30% lower power consumption than competition.
+
+Micron's HBM3E helps reduce data center operating costs by consuming about 30% less power than competing offerings. 
+The 8-high 24GB solution will be part of NVIDIA H200 Tensor Core GPUs which will begin shipping in the second calendar quarter of 2024.
+
+Micron extends industry-leading performance across our data center product portfolio with HBM3E. 
+Delivering faster data rates, improved thermal response, and 50% higher monolithic die density within same package footprint as previous generation.
+
+With advanced CMOS innovations and industry-leading 1β process technology. Micron HBM3E provides higher memory bandwidth that exceeds 1.2 TB/s
+
+
+Improved reliability, availability, serviceability (RAS) features: 
+• Reed-Solomon on-die ECC
+• Soft repair (temporary repair of memory cells)
+• Hard repair (permanent repair of memory cells)
+• Auto error check and scrub (ECS) support with error reporting function
+
+Noise-tolerant data alignment enablesindustry-leading rank-to-rank timing
+Advanced data eye mask design and process innovations deliver system 
+signal and power integrity improvements
+
+Fully programmable mBIST capable of running at specification speed,replicating system traffic for better test coverage and faster debug 2X more
+TSVs compared to current HBM3 shipping solutions.
+
+
+
+
+
